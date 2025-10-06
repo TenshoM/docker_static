@@ -1,0 +1,16 @@
+*.pyc
+*.jpg
+*.JPG
+*.png
+*.gif
+*.idx
+*~
+/.vscode
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+**/.env
+*.log
+*.tar
+html/
